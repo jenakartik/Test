@@ -2,7 +2,7 @@ import java.util.*;
 public class Reverse {
 	public static void main(String args[])
 	{
-		//This is for reverse program
+		//This is for reverse program(some changes)
 		Scanner sc=new Scanner(System.in);
 		String s,reverse="";
 		System.out.println("Enter a string");
